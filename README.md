@@ -3,3 +3,7 @@
 
 
 https://cdn.jsdelivr.net/gh/gaojianstyle/g-cdn-world-0@main/
+
+
+在线编辑
+https://github.dev/gaojianstyle/g-cdn-world-0/blob/demo/g/1.txt
